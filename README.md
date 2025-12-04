@@ -8,6 +8,7 @@ The tool is available in two versions, GUI & CLI. To download and use your prefe
 4.	Start using the tool as the interface suggests.
 #### Example Input/Output
 <img width="1280" height="912" alt="image" src="https://github.com/user-attachments/assets/c3b51f40-7ae9-4fa6-bc65-a931224451da" />
+
 ### CLI
 #### Usage Guide
 1.	Download the tool from the GitHub repository by following the link https://github.com/Amal-Alassaf/Menu-Driven-Java-Banker-s-Algorithm-Tool-.git
