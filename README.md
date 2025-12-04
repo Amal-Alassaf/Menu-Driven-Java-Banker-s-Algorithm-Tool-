@@ -51,8 +51,8 @@ Suggestion and reporting of issues are welcomed through the GitHub “ISSUE_TAMP
 ## Group Members & their Roles
 | Member | Role | 
 | -------- | -------- |
-| Anfal Basim Barri 4455123| Interface design & implementation |
+| Anfal Basim Barri 4455123| Interface design & implementation, implementation of `handleRequest()` and `requestResources()` |
 | Aram Nayyaf Alruwaythi 4453447 | Content 5 |
 | Alaa Hassan Alqulayti 4455238 | Content 5 |
 | Danah Abdulaziz Alhejaili 4453310 | Content 5 |
-| Amal Saad Al-Assaf 4451352 | `saftyCheck` algorithm implementation, Report & README file format |
+| Amal Saad Al-Assaf 4451352 | `saftyCheck()` algorithm implementation, Report & README file format |
