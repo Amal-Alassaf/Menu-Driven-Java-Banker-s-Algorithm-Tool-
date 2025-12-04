@@ -47,3 +47,12 @@ Suggestion and reporting of issues are welcomed through the GitHub “ISSUE_TAMP
   5. If safe, the allocation is approved; if unsafe, the request is denied.
 * `handleRelease()`: collects the process ID and the release vector from the user, validates input, and then calls releaseResources to execute the request.
 * `releaseResources()`: updates the system state by adding the released resources to the Available vector, subtracting them from the process's Allocation, and adding them back to the process's Need
+
+## Group Members & their Roles
+| Member | Role | 
+| -------- | -------- |
+| Anfal Basim Barri 4455123| Interface design & implementation |
+| Aram Nayyaf Alruwaythi 4453447 | Content 5 |
+| Alaa Hassan Alqulayti 4455238 | Content 5 |
+| Danah Abdulaziz Alhejaili 4453310 | Content 5 |
+| Amal Saad Al-Assaf 4451352 | `saftyCheck` algorithm implementation, Report & README file format |
