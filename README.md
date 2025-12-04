@@ -22,5 +22,6 @@ The tool is available in two versions, GUI & CLI. To download and use your prefe
 #### Example Input/Output
 <img width="1280" height="675" alt="image" src="https://github.com/user-attachments/assets/a9ec5499-8ffe-4008-a5b9-e20e23d56969" />
 <img width="1280" height="636" alt="image" src="https://github.com/user-attachments/assets/067ed144-410a-4685-a0dd-7cde71f7d4d9" />
+
 ## Troubleshooting 
 Suggestion and reporting of issues are welcomed through the GitHub “ISSUE_TAMPLATE”.
