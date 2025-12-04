@@ -28,7 +28,7 @@ Suggestion and reporting of issues are welcomed through the GitHub “ISSUE_TAMP
 
 ## Detailed Description of the Code 
 ### System Initialization Methods
-* menu(): presents the user with the main options (Initialize, Display, Request, Release, Exit) and calls the appropriate handler methods based on the user's choice.
+* `menu()`: presents the user with the main options (Initialize, Display, Request, Release, Exit) and calls the appropriate handler methods based on the user's choice.
 * getNumberOfProcesses(): prompts the user to enter and validates the number of processes or threads (P) in the system.
 * getNumberOfResources(): prompts the user to enter and validates the number of resource types (R) available in the system.
 * readAvailable(): collects and validates the initial number of instances for each resource type.
